@@ -1,0 +1,88 @@
+.admin_container{
+    height: 100vh;
+    width: 100%;
+    background-color: #0056b3;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.admin_text_box{
+    height: 60vh;
+    width: 45%;
+    background-color: #0f4a8a;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 1rem;
+    padding-left: 4rem;
+    padding-bottom: 1rem;
+}
+#link{
+    
+    color: #fff;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#link:hover{
+    color: red;
+}
+#admin_save_btn{
+    height: 2.5rem;
+    width: 7rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #000;
+    border: 1px solid #000;
+    border-radius: 0.5rem;
+    color: #fff;
+}
+#admin_save_btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.admin_save_btn_box{
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+.heading_box{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 26rem;
+   background-color: red;
+   color: #000;
+}
+.quiz_back_box{
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    /* background-color: aqua; */
+}
+.admin_login_box{
+    height: 7vh;
+    width: 60%;
+    /* background-color: red; */
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}

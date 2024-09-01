@@ -1,0 +1,63 @@
+{
+  "admin": [
+    {
+      "id": "ae2a",
+      "first_name": "PIYUSH",
+      "last_name": "DIWAKAR",
+      "Identity_number": "001001"
+    },
+    {
+      "id": "4ab6",
+      "first_name": "VISHNU",
+      "last_name": "PRAKASH",
+      "Identity_number": "0505005"
+    },
+    {
+      "id": "6b2d",
+      "first_name": "MANISH",
+      "last_name": "KUMAR",
+      "Identity_number": "4004004"
+    }
+  ],
+  "users": [
+    {
+      "id": "4160",
+      "email": "prakashvishnuabc@gmail.com",
+      "password": "YWJj"
+    },
+    {
+      "id": "fea2",
+      "email": "piyushraj2872001@gmail.com",
+      "password": "YWJjZA=="
+    },
+    {
+      "id": "e2bc",
+      "email": "kr.vinay4669@gmail.com",
+      "password": "MTIzNA=="
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1f7",
+      "question": "Who was the first president of India?",
+      "option": {
+        "A": "Dr. Manmohan Singh",
+        "B": "Dr. A.P.J Abdul Kalam",
+        "C": "Dr. Rajendra Prasad",
+        "D": "No any"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "0fc8",
+      "question": "Who was the first prime minister of India?",
+      "option": {
+        "A": "Dr. Manmohan Singh",
+        "B": "Dr. A.P.J Abdul Kalam",
+        "C": "Dr. Rajendra Prasad",
+        "D": "Pt. Jawahar Lal Nehru"
+      },
+      "answer": "D"
+    }
+  ]
+}

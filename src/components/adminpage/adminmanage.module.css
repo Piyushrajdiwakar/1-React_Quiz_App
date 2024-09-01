@@ -1,0 +1,68 @@
+.adminlogin_box{
+    height: 100vh;
+    width: 100%;
+    background-color: #0056b3;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.admin_text_box{
+    height: 80vh;
+    width: 45%;
+    background-color: #0f4a8a;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 1rem;
+    padding-left: 4rem;
+}
+.admin_save_btn_box{
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 7rem;
+}
+#admin_save_btn{
+    height: 2.5rem;
+    width: 7rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #000;
+    border: 1px solid #000;
+    border-radius: 0.5rem;
+    color: #fff;
+}
+#link{
+    height: 2.5rem;
+    width: 9rem;
+    border: 1px solid #000;
+    background-color: #000;
+    color: #fff;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#admin_save_btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+#link:hover{
+    color: red;
+}
+
+.heading_box{
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 26rem;
+    
+}

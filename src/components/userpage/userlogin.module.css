@@ -1,0 +1,74 @@
+.userlogin_box{
+    height: 100vh;
+    width: 100%;
+    background-color: #0056b3;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.heading_box{
+    height: 10vh;
+    background-color: red;
+    color: #000;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 28rem;
+    
+}
+.user_form_box{
+    height: 50vh;
+    width: 40%;
+    background-color: #0f4a8a;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 1rem;
+    padding-left: 4rem;
+}
+.user_save_btn_box{
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+#user_save_btn{
+    height: 2.5rem;
+    width: 7rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #000;
+    border: 1px solid #000;
+    border-radius: 0.5rem;
+    color: #159ee2;
+}
+#user_save_btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+#link{
+    color: #fff;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.account_box{
+    height: 7vh;
+    width: 60%;
+    /* background-color: red; */
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
